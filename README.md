@@ -29,7 +29,7 @@ web o fullstack donde pueda aportar mis habilidades técnicas, seguir aprendiend
 
 ## 🚀 Proyectos Destacados
 
-### 📌 [WebHoock SICAS - Monday HYLANT
+### 📌 [WebHoock SICAS - Monday HYLANT]
 
 Conexión de SICAS Online y Monday mediante un WebHoock/aspx.
 **Tecnologías:** Aspx, WebHooc, ConsumerWebRest
